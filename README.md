@@ -13,7 +13,7 @@
  <br>• Cheap and small design (not counting the SCD30)
  <br>• Portability in mind
  <br>• Automation compatible (automatic window and air circulation control, for instance)
- <br>• Integrated design, no need for extra tools (Self contained web app)
+ <br>• Integrated design, no need for extra tools, such as a Python host (Its a complete self-contained web app)
  <br>• Interconnectivity mode for centralized administration of large buildings (such as schools)
  <br>• Useful, not annoying (No unnecessary beeping)
  <br>• Readable display (OLED instead of LCD)
