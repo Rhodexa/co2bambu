@@ -1,3 +1,4 @@
+/*
 Main BambuAQ code, a basic and standard Arduino skeleton 
     Copyright (C) 2022  Rhodexa's Arts
 
@@ -13,7 +14,7 @@ Main BambuAQ code, a basic and standard Arduino skeleton
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
+*/
 #include "sensor_driver.h"
 #include "oled_driver.h"
 
