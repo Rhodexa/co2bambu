@@ -1,5 +1,5 @@
 #ifndef HW_DEF_H
-#defin HW_DEF_H
+#define HW_DEF_H
 // This is just a placeholder, but there should be all hardware mapping if necessary.
 
 #define SPK_OUT 0
